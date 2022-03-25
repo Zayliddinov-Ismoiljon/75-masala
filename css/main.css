@@ -1,0 +1,63 @@
+body{
+    background-color: hsl(207, 9%, 19%);;
+}
+
+.container{
+    width: 1280px;
+    padding: 0px 20px;
+    margin: 0 auto;
+}
+
+h1{
+    font-family: "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.text{
+    color: white;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+    font-size: 18px;
+}
+
+.list{
+    list-style: none;
+    width: 600px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-family: "Arial", sans-serif;
+    font-size: 22px;
+}
+
+a:hover{
+    color: rgb(139, 139, 248);
+}
+
+.about__text{
+    color: white;
+    font-family: "Arial", sans-serif;
+    font-size: 18px;
+}
+
+.plan__text{
+    color: white;
+    font-family: "Arial", sans-serif;
+    font-size: 18px;
+}
+
+.boyligi__text{
+    color: white;
+    font-family: "Arial", sans-serif;
+    font-size: 18px;
+}
